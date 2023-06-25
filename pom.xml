@@ -13,6 +13,7 @@
         <module>my-springframework-step-04</module>
         <module>my-springframework-step-05</module>
         <module>my-springframework-step-06</module>
+        <module>my-springframework-step-07</module>
     </modules>
 
     <dependencyManagement>
