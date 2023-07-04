@@ -16,6 +16,7 @@
         <module>my-springframework-step-07</module>
         <module>my-springframework-step-08</module>
         <module>my-springframework-step-09</module>
+        <module>my-springframework-step-10</module>
     </modules>
 
     <dependencyManagement>
